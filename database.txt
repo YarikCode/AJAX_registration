@@ -1,0 +1,5 @@
+0 "yaroslav.yarosl.ivanov@yandex.ru" "login" "123123"
+1 "asd@mail.ru" "login" "123123"
+2 "admin@bboard.ru" "login" "123123"
+3 "VasiaPetrov@yandex.ru" "Vasia" "123123567"
+4 "editor@bboard.ru" "supereditor" "123123"
